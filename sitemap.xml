@@ -3,15 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aitorvs.github.io/</loc>
+    <loc>https://aitorvs.github.io/about/</loc>
+    <lastmod>2020-08-28T11:48:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aitorvs.github.io/categories/</loc>
+    <loc>https://aitorvs.github.io/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/development/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/java/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/not_so_java_anymore/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/programming/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://aitorvs.github.io/tags/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/technology/</loc>
+    <lastmod>2020-07-15T12:12:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/careers/</loc>
+    <lastmod>2020-07-07T12:27:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/interview/</loc>
+    <lastmod>2020-07-07T12:27:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/interviewtips/</loc>
+    <lastmod>2020-07-07T12:27:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/leadership/</loc>
+    <lastmod>2020-07-07T12:27:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/most_common_interviewer_mistakes/</loc>
+    <lastmod>2020-07-07T12:27:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/most_common_mistakes_during_interviews/</loc>
+    <lastmod>2020-07-03T14:27:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/android/</loc>
+    <lastmod>2016-09-02T15:42:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/android_face_tracker_playground/</loc>
+    <lastmod>2016-09-02T15:42:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/android_shared_element_transition/</loc>
+    <lastmod>2016-09-02T15:42:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/mobile/</loc>
+    <lastmod>2016-09-02T15:42:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/annotation_processing_in_android_studio/</loc>
+    <lastmod>2016-07-18T10:22:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/tags/metaprogramming/</loc>
+    <lastmod>2016-07-18T10:22:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/post/android_fingerprint_authentication/</loc>
+    <lastmod>2016-07-10T17:40:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aitorvs.github.io/categories/</loc>
   </url>
   
 </urlset>

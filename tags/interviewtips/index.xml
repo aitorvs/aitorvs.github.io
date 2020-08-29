@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interviewtips on Aitor Viana</title>
+    <link>https://aitorvs.github.io/tags/interviewtips/</link>
+    <description>Recent content in interviewtips on Aitor Viana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 12:27:37 +0100</lastBuildDate>
+    
+	<atom:link href="https://aitorvs.github.io/tags/interviewtips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Most common interviewer mistakes</title>
+      <link>https://aitorvs.github.io/post/most_common_interviewer_mistakes/</link>
+      <pubDate>Tue, 07 Jul 2020 12:27:37 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/post/most_common_interviewer_mistakes/</guid>
+      <description>If you do interviews, maybe these lines resonate with you and help you get better.</description>
+    </item>
+    
+    <item>
+      <title>Most common mistakes during interviews</title>
+      <link>https://aitorvs.github.io/post/most_common_mistakes_during_interviews/</link>
+      <pubDate>Fri, 03 Jul 2020 14:27:37 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/post/most_common_mistakes_during_interviews/</guid>
+      <description>Some common mistakes candidates make during the interview that are highly avoidable, so I thought I&amp;rsquo;d spend just a little bit of time writing those down and share them.</description>
+    </item>
+    
+  </channel>
+</rss>

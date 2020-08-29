@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aitor Viana</title>
-    <link>https://aitorvs.github.io/</link>
-    <description>Recent content on Aitor Viana</description>
+    <title>development on Aitor Viana</title>
+    <link>https://aitorvs.github.io/tags/development/</link>
+    <description>Recent content in development on Aitor Viana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2020 12:12:58 +0100</lastBuildDate>
     
-	<atom:link href="https://aitorvs.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aitorvs.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://aitorvs.github.io/about/</link>
-      <pubDate>Fri, 28 Aug 2020 11:48:15 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/about/</guid>
-      <description>Hi,
-I am Aitor, and I am a Senior Software Engineer currently doing mobile.
-I started my career as a lecturer at the University of Alcala and developing real-time operating systems and software for embedded systems, mainly for satellites like Nanosat-01.
-I was lucky enough to start working at the European Space Agency, where I stayed for 10 years in several positions, from Electrical and Software Engineer to more managerial positions.</description>
-    </item>
     
     <item>
       <title>Not so java anymore</title>
@@ -30,24 +18,6 @@ I was lucky enough to start working at the European Space Agency, where I stayed
       
       <guid>https://aitorvs.github.io/post/not_so_java_anymore/</guid>
       <description>Java does not feel so &amp;ldquo;Java&amp;rdquo; anymore. And to show it we&amp;rsquo;re going to take a look at Java 14.</description>
-    </item>
-    
-    <item>
-      <title>Most common interviewer mistakes</title>
-      <link>https://aitorvs.github.io/post/most_common_interviewer_mistakes/</link>
-      <pubDate>Tue, 07 Jul 2020 12:27:37 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/post/most_common_interviewer_mistakes/</guid>
-      <description>If you do interviews, maybe these lines resonate with you and help you get better.</description>
-    </item>
-    
-    <item>
-      <title>Most common mistakes during interviews</title>
-      <link>https://aitorvs.github.io/post/most_common_mistakes_during_interviews/</link>
-      <pubDate>Fri, 03 Jul 2020 14:27:37 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/post/most_common_mistakes_during_interviews/</guid>
-      <description>Some common mistakes candidates make during the interview that are highly avoidable, so I thought I&amp;rsquo;d spend just a little bit of time writing those down and share them.</description>
     </item>
     
     <item>
