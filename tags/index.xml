@@ -12,16 +12,7 @@
     
     
     <item>
-      <title>development</title>
-      <link>https://aitorvs.github.io/tags/development/</link>
-      <pubDate>Wed, 15 Jul 2020 12:12:58 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>java&#39;</title>
+      <title>java</title>
       <link>https://aitorvs.github.io/tags/java/</link>
       <pubDate>Wed, 15 Jul 2020 12:12:58 +0100</pubDate>
       
@@ -30,29 +21,11 @@
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://aitorvs.github.io/tags/programming/</link>
-      <pubDate>Wed, 15 Jul 2020 12:12:58 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://aitorvs.github.io/tags/technology/</link>
-      <pubDate>Wed, 15 Jul 2020 12:12:58 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>careers</title>
-      <link>https://aitorvs.github.io/tags/careers/</link>
+      <title>career</title>
+      <link>https://aitorvs.github.io/tags/career/</link>
       <pubDate>Tue, 07 Jul 2020 12:27:37 +0100</pubDate>
       
-      <guid>https://aitorvs.github.io/tags/careers/</guid>
+      <guid>https://aitorvs.github.io/tags/career/</guid>
       <description></description>
     </item>
     
@@ -66,24 +39,6 @@
     </item>
     
     <item>
-      <title>interviewtips</title>
-      <link>https://aitorvs.github.io/tags/interviewtips/</link>
-      <pubDate>Tue, 07 Jul 2020 12:27:37 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/interviewtips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>leadership</title>
-      <link>https://aitorvs.github.io/tags/leadership/</link>
-      <pubDate>Tue, 07 Jul 2020 12:27:37 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>android</title>
       <link>https://aitorvs.github.io/tags/android/</link>
       <pubDate>Fri, 02 Sep 2016 15:42:58 +0100</pubDate>
@@ -93,20 +48,11 @@
     </item>
     
     <item>
-      <title>mobile</title>
-      <link>https://aitorvs.github.io/tags/mobile/</link>
-      <pubDate>Fri, 02 Sep 2016 15:42:58 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metaprogramming</title>
-      <link>https://aitorvs.github.io/tags/metaprogramming/</link>
+      <title>codegen</title>
+      <link>https://aitorvs.github.io/tags/codegen/</link>
       <pubDate>Mon, 18 Jul 2016 10:22:08 +0100</pubDate>
       
-      <guid>https://aitorvs.github.io/tags/metaprogramming/</guid>
+      <guid>https://aitorvs.github.io/tags/codegen/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codegen on Aitor Viana</title>
+    <link>https://aitorvs.github.io/tags/codegen/</link>
+    <description>Recent content in codegen on Aitor Viana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2016 10:22:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://aitorvs.github.io/tags/codegen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Annotation Processing in Android Studio</title>
+      <link>https://aitorvs.github.io/post/annotation_processing_in_android_studio/</link>
+      <pubDate>Mon, 18 Jul 2016 10:22:08 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/post/annotation_processing_in_android_studio/</guid>
+      <description>I did code generation and metaprogramming in the past and recently I started doing it for Android, so I decided to write this code-generation 101.</description>
+    </item>
+    
+  </channel>
+</rss>
