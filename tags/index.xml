@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Aitor Viana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 12:12:58 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 20:59:46 +0100</lastBuildDate>
     
 	<atom:link href="https://aitorvs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>android</title>
+      <link>https://aitorvs.github.io/tags/android/</link>
+      <pubDate>Sat, 29 Aug 2020 20:59:46 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dagger</title>
+      <link>https://aitorvs.github.io/tags/dagger/</link>
+      <pubDate>Sat, 29 Aug 2020 20:59:46 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/tags/dagger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://aitorvs.github.io/tags/kotlin/</link>
+      <pubDate>Sat, 29 Aug 2020 20:59:46 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/tags/kotlin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>java</title>
@@ -35,15 +62,6 @@
       <pubDate>Tue, 07 Jul 2020 12:27:37 +0100</pubDate>
       
       <guid>https://aitorvs.github.io/tags/interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>android</title>
-      <link>https://aitorvs.github.io/tags/android/</link>
-      <pubDate>Fri, 02 Sep 2016 15:42:58 +0100</pubDate>
-      
-      <guid>https://aitorvs.github.io/tags/android/</guid>
       <description></description>
     </item>
     

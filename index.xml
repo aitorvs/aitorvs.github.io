@@ -6,10 +6,19 @@
     <description>Recent content on Aitor Viana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 12:12:58 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 20:59:46 +0100</lastBuildDate>
     
 	<atom:link href="https://aitorvs.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simple Android plugin system using Dagger</title>
+      <link>https://aitorvs.github.io/post/simple_plugin_system/</link>
+      <pubDate>Sat, 29 Aug 2020 20:59:46 +0100</pubDate>
+      
+      <guid>https://aitorvs.github.io/post/simple_plugin_system/</guid>
+      <description>I have been experimenting with a Dagger-powered plugin system lately, here is a brief blog post on how to build it</description>
+    </item>
     
     <item>
       <title>About</title>
